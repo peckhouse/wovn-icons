@@ -19,7 +19,7 @@ yarn add wovn-icons
 ***
 
 ```vue
-//main.js
+// main.js
 <script>
 import Vue from 'vue'
 import App from './App.vue'
@@ -32,7 +32,7 @@ new Vue({
 }).$mount('#app')
 </script>
 
-//App.vue
+// App.vue
 <template>
   <div id="app" class="App">
     <wovn-icon
