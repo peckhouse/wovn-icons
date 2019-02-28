@@ -20,6 +20,7 @@ yarn add wovn-icons
 
 ```vue
 //main.js
+<script>
 import Vue from 'vue'
 import App from './App.vue'
 import WovnIcons from 'wovn-icons'
@@ -29,7 +30,7 @@ Vue.use(WovnIcons)
 new Vue({
   render: h => h(App),
 }).$mount('#app')
-
+</script>
 
 //App.vue
 <template>
