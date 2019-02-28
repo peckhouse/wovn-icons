@@ -4,7 +4,6 @@ Library to use WOVN.io svg icons as components.
 
 ## Installation
 ***
-
 #### npm
 ```
 npm install wovn-icons
@@ -17,7 +16,6 @@ yarn add wovn-icons
 
 ## Usage
 ***
-
 ```vue
 // main.js
 <script>
