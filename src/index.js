@@ -1,7 +1,10 @@
-import ExampleComponent from './components/ExampleComponent'
+import WovnIcon from './components/WovnIcon'
+
+const icons = require.context('!svg-sprite-loader!./svg', false, /\.svg$/)
+icons.keys().forEach(icons)
 
 export default {
   install (Vue) {
-    Vue.component('ExampleComponent', ExampleComponent)
+    Vue.component('WovnIcon', WovnIcon)
   }
 }

@@ -1,6 +1,6 @@
 <template>
   <div id="app" class="App">
-    <ExampleComponent>Hello world</ExampleComponent>
+    <wovn-icon name="arrow_left" color="#AA0000" width=48 height="48"></wovn-icon>
   </div>
 </template>
 
