@@ -47,9 +47,10 @@ new Vue({
 ```
 
 #### props
-| name      | (String) name of the icon                                                                                                           |
-|-----------|-------------------------------------------------------------------------------------------------------------------------------------|
-| className | (String) class for the icon                                                                                                         |
-| width     | (Number, String) width of the icon                                                                                                  |
-| height    | (Number, String) height of the icon                                                                                                 |
-| color     | (String) hex code for color of the icon can have a second hexa with a space to define the hover color (eg: color="#FF0000 #DDEE00") |
+| props name | props value                                                                                                                         |
+|------------|-------------------------------------------------------------------------------------------------------------------------------------|
+| name       | (String) name of the icon                                                                                                           |
+| className  | (String) class for the icon                                                                                                         |
+| width      | (Number, String) width of the icon                                                                                                  |
+| height     | (Number, String) height of the icon                                                                                                 |
+| color      | (String) hex code for color of the icon can have a second hexa with a space to define the hover color (eg: color="#FF0000 #DDEE00") |
