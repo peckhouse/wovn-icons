@@ -4,3 +4,5 @@
 ```
 npm install
 ```
+
+Component library for WOVN.io icons.
