@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "license": "MIT",
   "author": "peckhouse",
-  "private": true,
+  "private": false,
   "main": "./src/index.js",
   "dependencies": {
     "vue": "^2.5.17",
